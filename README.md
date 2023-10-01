@@ -1,3 +1,5 @@
+<img src="https://github.com/mrgoswami20/mrgoswami20/blob/main/BD_bg.jpg" alt="banner" width="100%" align="center">
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar Goswami</h1>
 <h3 align="center">A passionate Blockchain developer and frontend developer from India</h3>
 
