@@ -1,13 +1,13 @@
-<img src="https://github.com/mrgoswami20/mrgoswami20/blob/main/BD_bg.jpg" alt="banner" width="100%" align="center">
+<img src="https://github.com/mrgoswami20/mrgoswami20/blob/main/let's connect_bg.png" alt="banner" width="100%" align="center">
 
 <h1 align="center">Hi 👋, I'm Rohit Kumar Goswami</h1>
-<h3 align="center">A passionate Blockchain developer and frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgoswami20&label=Profile%20views&color=0e75b6&style=flat" alt="mrgoswami20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgoswami20" alt="mrgoswami20" /></a> </p>
 
-- 💬 Ask me about **Blockchain, Web Developer**
+- 💬 Ask me about **Blockchain, AIML, Web Development**
 
 - 📫 How to reach me **rohitrajgoswami12@gmail.com**
 
